@@ -1,0 +1,6 @@
+/* Add mobile styles for the component here.  */
+.centralize {
+    display: flex;
+    align-items: center;
+    align-content: center;
+}

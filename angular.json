@@ -1,0 +1,17 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "cli": {
+    "defaultCollection": "@nativescript/schematics"
+  },
+  "projects": {
+    "RepublicManager": {
+      "root": "",
+      "sourceRoot": "app",
+      "projectType": "application",
+      "prefix": "ns"
+    }
+  },
+  "defaultProject": "RepublicManager"
+}

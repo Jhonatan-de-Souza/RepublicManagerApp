@@ -1,0 +1,25 @@
+{
+  "files.exclude": {
+    "__error": "Not found",
+    "**/*.js": true,
+    "**/node_modules": true,
+    "**/node_modules.*": true,
+    "**/hooks": true,
+    "**/hooks.*": true,
+    "**/App_Resources": true,
+    "**/App_Resources.*": true,
+    "**/.vscode": true,
+    "**/.vscode.*": true,
+    "**/platforms": true,
+    "**/platforms.*": true,
+    "**/tsconfig.tns": true,
+    "**/tsconfig.tns.*": true,
+    "**/tsconfig": true,
+    "**/package-lock": true,
+    "**/package-lock.*": true,
+    "**/nsconfig": true,
+    "**/nsconfig.*": true,
+    "**/angular": true,
+    "**/angular.*": true
+  }
+}
