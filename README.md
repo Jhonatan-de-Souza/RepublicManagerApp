@@ -1,29 +1,18 @@
-# NativeScript Angular Template
+# Republic Manager App
 
-This template creates a "Hello, world" NativeScript app using TypeScript and Angular.
+This app will help you:
 
-You can create a new app that uses this template with either the `--template` option.
+1. Share Groceries Expenses
+2. Share Daily Taks
+3. Manage Expenses in a shared Location
+4. Create Profiles for "Republics(any share location)" for administrator and regular users
 
-```
-tns create my-app-name --template tns-template-hello-world-ng
-```
+# Made with
 
-Or the `--ng` shorthand.
+1. Angular 7+
+2. Nativescript
+3. Javascript ES6+
+4. Html
+5. CSS
 
-```
-tns create my-app-name --ng
-```
-
-> Note: Both commands will create a new NativeScript app that uses the latest version of this template published to [npm] (https://www.npmjs.com/package/tns-template-hello-world-ng).
-
-If you want to create a new app that uses the source of the template from the `master` branch, you can execute the following:
-
-```
-tns create my-app-name --template https://github.com/NativeScript/template-hello-world-ng.git#master
-```
-
-**NB:** Please, have in mind that the master branch may refer to dependencies that are not on NPM yet!
-
-# Issues
-
-Issues related to `template-hello-world-ng` template should be logged in the https://github.com/NativeScript/NativeScript repository.
+*Currently In development and not ready for use*
